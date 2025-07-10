@@ -95,7 +95,7 @@ private static final String PASSWORD = "12345";
 
 ## 🧪 Sample Logs
 
-Logs are saved in `library.log`:
+Logs are saved in `library-actions.log`:
 
 ```
 [2025-07-09 23:18:23] Added book: Harry Potter
