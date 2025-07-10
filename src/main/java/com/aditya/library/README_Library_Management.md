@@ -38,10 +38,10 @@ src/
         └── com/
             └── aditya/
                 └── library/
-                    ├── Book.java               # POJO/Model
-                    ├── BookDBManager.java   # DAO class using JDBC
-                    ├── BookLogger.java      # Logger using multithreading
-                    └── MainFile.java           # Console UI and main logic
+                    ├── Book.java              
+                    ├── BookDBManager.java   
+                    ├── BookLogger.java     
+                    └── MainFile.java           
 ```
 
 ---
@@ -130,18 +130,9 @@ Add this to your `pom.xml`:
 
 ## 👨‍💻 Developer Info
 
-- Name: Aditya (Replace with your full name if needed)
-- Email: your_email@example.com
-- GitHub: [your-github-username](https://github.com/your-github-username)
-
----
-
-## 💡 Future Improvements
-
-- GUI (JavaFX/Swing)
-- Issue/return functionality
-- User authentication
-- Pagination for large book lists
+- Name: Aditya 
+- Email: adityagundla08@gmail.com.com
+- GitHub: Aditya178510
 
 ---
 
