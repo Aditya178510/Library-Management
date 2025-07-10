@@ -130,7 +130,7 @@ Add this to your `pom.xml`:
 
 ## 👨‍💻 Developer Info
 
-- Name: Aditya 
+- Name: Aditya Gundla
 - Email: adityagundla08@gmail.com.com
 - GitHub: Aditya178510
 
